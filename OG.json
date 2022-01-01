@@ -2,5 +2,5 @@
     "name": "Ogiee Grenades",
     "description": "A Lot of Grenades!", 
     "update_timestamp": 1637150778,
-    "url_format": "https://ghproxy.fsou.cc/https://raw.githubusercontent.com/OrginalGOD/grenade-helper/main/Maps/%map%.json"
+    "url_format": "https://cdn.staticaly.com/gh/OrginalGOD/grenade-helper/main/Maps/%map%.json"
 }
