@@ -1,5 +1,5 @@
 
----------------官方---------------
+官方
 
 https://raw.fastgit.org/kuaihou2012/helper_ChinaCDN/master/locations/builtin_hvh.json
 https://raw.fastgit.org/kuaihou2012/helper_ChinaCDN/master/locations/builtin_legit.json
@@ -9,7 +9,7 @@ https://raw.fastgit.org/kuaihou2012/helper_ChinaCDN/master/locations/sothatwemay
 ----------------------------------
 
 
----------------第三方---------------
+第三方
 
 https://raw.fastgit.org/kuaihou2012/helper_ChinaCDN/master/jozkah_cdn.json
 https://raw.fastgit.org/kuaihou2012/helper_ChinaCDN/master/hvh%20expert.json
