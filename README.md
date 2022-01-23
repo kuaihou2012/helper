@@ -1,5 +1,5 @@
 
-官方
+内置
 
 https://raw.fastgit.org/kuaihou2012/helper_ChinaCDN/master/locations/builtin_hvh.json
 https://raw.fastgit.org/kuaihou2012/helper_ChinaCDN/master/locations/builtin_legit.json
