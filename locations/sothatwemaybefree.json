@@ -2,5 +2,5 @@
 	"name": "SoThatWeMayBeFree",
 	"description": "Grenades from sothatwemaybefree",
 	"update_timestamp": 1637161986,
-	"url_format": "https://cdn.jsdelivr.net/gh/sapphyrus/helper/master/locations/sothatwemaybefree/%map%.json"
+	"url_format": "https://fastly.jsdelivr.net/gh/sapphyrus/helper/master/locations/sothatwemaybefree/%map%.json"
 }
