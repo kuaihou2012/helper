@@ -2,5 +2,5 @@
     "name": "Ogiee Grenades",
     "description": "A Lot of Grenades!", 
     "update_timestamp": 1642214859,
-    "url_format": "https://fastly.jsdelivr.net/gh/OrginalGOD/grenade-helper/main/Maps/%map%.json"
+    "url_format": "https://cdn.staticaly.com/gh/OrginalGOD/grenade-helper/main/Maps/%map%.json"
 }
