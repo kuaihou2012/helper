@@ -2,5 +2,5 @@
 	"name": "Built-in (Movement)",
 	"description": "Movement locations for popular maps",
   	"update_timestamp": 1610413030,
-	"url_format": "https://cdn.jsdelivr.net/gh/sapphyrus/helper/master/locations/builtin_movement/%map%.json"
+	"url_format": "https://fastly.jsdelivr.net/gh/sapphyrus/helper/master/locations/builtin_movement/%map%.json"
 }
