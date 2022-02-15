@@ -2,5 +2,5 @@
 	"name": "Built-in (HvH)",
 	"description": "HvH mollys, nades and oneways",
 	"update_timestamp": 1602437019,
-	"url_format": "https://raw.fastgit.org/sapphyrus/helper/master/locations/builtin_hvh/%map%.json"
+	"url_format": "https://cdn.jsdelivr.net/gh/sapphyrus/helper/master/locations/builtin_hvh/%map%.json"
 }
