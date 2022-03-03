@@ -1,5 +1,5 @@
 
-内置CDN
+内置
 
 https://cdn.staticaly.com/gh/kuaihou2012/helper_ChinaCDN/master/locations/builtin_hvh.json
 https://cdn.staticaly.com/gh/kuaihou2012/helper_ChinaCDN/master/locations/builtin_legit.json
