@@ -13,6 +13,5 @@ https://cdn.staticaly.com/gh/kuaihou2012/helper_ChinaCDN/master/locations/sothat
 
 https://cdn.staticaly.com/gh/kuaihou2012/helper_ChinaCDN/master/jozkah_cdn.json
 https://cdn.staticaly.com/gh/kuaihou2012/helper_ChinaCDN/master/hvh%20expert.json
-https://cdn.staticaly.com/gh/kuaihou2012/helper_ChinaCDN/master/OG.json
 
 ----------------------------------
